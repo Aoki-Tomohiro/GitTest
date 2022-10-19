@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello GitHub World!\n";
+
+    std::cout << "Hello Master World!\n";
+
     std::cout << "Hello Conflict World!\n";
 }
 
