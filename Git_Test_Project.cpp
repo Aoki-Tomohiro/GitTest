@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello GitHub World!\n";
-    std::cout << "Hello Branch World!\n";
+    std::cout << "Hello Master World!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
