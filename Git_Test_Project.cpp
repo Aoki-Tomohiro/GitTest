@@ -5,11 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello GitHub World!\n";
+    std::cout << "Hello Remote GitHub World!\n";
 
-    std::cout << "Hello Master World!\n";
+    std::cout << "Hello Remote Master World!\n";
 
-    std::cout << "third branch\n";
+    std::cout << "third Remote branch\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
